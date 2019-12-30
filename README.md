@@ -9,3 +9,5 @@ This is a repository which will contain a list of some useful R resources.
 3. [Highcharter](http://jkunst.com/highcharter/) : Is an amazing plotting and data visualiztion package which also provides great interacitve charts has great functionality with ShinyR for developing web Apps.  
 
 4. [Machine learning Cheatsheet](https://github.com/soulmachine/machine-learning-cheat-sheet/raw/master/machine-learning-cheat-sheet.pdf)
+
+5. [SQL Joins](https://www.w3schools.com/sql/sql_join.asp)
