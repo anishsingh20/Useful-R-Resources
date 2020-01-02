@@ -11,3 +11,5 @@ This is a repository which will contain a list of some useful R resources.
 4. [Machine learning Cheatsheet](https://github.com/soulmachine/machine-learning-cheat-sheet/raw/master/machine-learning-cheat-sheet.pdf)
 
 5. [SQL Joins](https://www.w3schools.com/sql/sql_join.asp)
+
+6. [Mastering Markdown](https://guides.github.com/features/mastering-markdowan/)
