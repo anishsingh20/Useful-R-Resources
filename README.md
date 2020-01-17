@@ -15,3 +15,5 @@ This is a repository which will contain a list of some useful R resources.
 6. [Mastering Markdown](https://guides.github.com/features/mastering-markdowan/)
 
 7. [UN Datasets](http://data.un.org/Explorer.aspx)
+
+8. [Tableau Desktop](https://www.tableau.com/support/releases/desktop)
